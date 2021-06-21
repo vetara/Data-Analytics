@@ -1,8 +1,13 @@
 # Profitable App Profiles For The App Store and Google Play Markets
 
+- Our goal for this project is to analyze data to help our developers understand what type of apps are likely to attract more users.
 - Our main source of revenue consists of in-app ads.
 - This means our revenue for any given app is mostly influenced by the number of users who use our app — the more users that see and engage with the ads, the better.
-- Our goal for this project is to analyze data to help our developers understand what type of apps are likely to attract more users.
+
+# Official Documentation
+
+- For more information on the Apple Store dataset, click [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps).
+- For more information on the Google Play dataset, click [here](https://www.kaggle.com/lava18/google-play-store-apps).
 
 # The `explore_data()` Function:
 
@@ -93,12 +98,6 @@ print(google_header)
     
     
     ['App', 'Category', 'Rating', 'Reviews', 'Size', 'Installs', 'Type', 'Price', 'Content Rating', 'Genres', 'Last Updated', 'Current Ver', 'Android Ver']
-
-
-# Official Documentation
-
-- For more information on the Apple Store dataset, click [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps).
-- For more information on the Google Play dataset, click [here](https://www.kaggle.com/lava18/google-play-store-apps).
 
 # Data Cleaning
 
